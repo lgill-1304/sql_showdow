@@ -1,0 +1,200 @@
+﻿Jon Skeet	11354	13360	2821
+Marc Gravell	6508	7421	916
+Darin Dimitrov	6057	3878	243
+Nick Craver	5985	8634	229
+Hans Passant	5584	6281	149
+Alex Martelli	5437	3714	533
+BalusC	5289	8050	229
+SLaks	4901	6638	351
+Pekka 웃	4874	12069	255
+Pascal Thivent	4747	4921	196
+Ignacio Vazquez-Abrams	4437	3454	203
+tvanfosson	4369	3130	394
+marc_s	3987	4713	184
+JaredPar	3961	2334	707
+Mark Byers	3855	4628	471
+VonC	3719	3207	361
+Gumbo	3622	4736	223
+bobince	3547	4101	232
+Sarfraz	3526	2793	102
+paxdiablo	3478	4878	521
+John Saunders	3445	8725	137
+Joel Coehoorn	3339	3537	492
+Guffa	3335	2262	155
+Reed Copsey	3241	2966	367
+Bozho	3172	3857	179
+S.Lott	3156	9114	383
+duffymo	3062	2679	142
+cletus	3060	2090	614
+Oded	2906	3785	219
+CommonsWare	2902	2357	58
+Jonathan Leffler	2807	5609	199
+ghostdog74	2795	1542	42
+Greg Hewgill	2781	2372	654
+Jerry Coffin	2710	1951	182
+Quassnoi	2663	2632	182
+gbn	2643	2609	99
+kennytm	2639	3660	322
+Matthew Flaschen	2537	3422	162
+OMG Ponies	2528	6269	120
+Remus Rusanu	2471	1926	89
+Aaron Digulla	2452	2048	138
+Mitch Wheat	2436	4268	222
+AnthonyWJones	2410	2930	130
+Quentin	2379	3262	134
+Andrew Hare	2335	1357	373
+Stephen C	2308	3024	80
+skaffman	2226	3553	151
+Mehrdad Afshari	2213	2823	631
+Robert Harvey	2177	3068	146
+Pascal MARTIN	2121	1321	185
+CMS	2094	1227	394
+Justin Niessner	2083	1255	209
+Michael Borgwardt	2010	1783	210
+Tomalak	1981	4402	168
+codaddict	1964	698	259
+Bill Karwin	1917	1919	219
+Michael Burr	1904	2362	262
+HLGEM	1859	1782	56
+Henk Holterman	1857	3388	103
+Brian Agnew	1844	1113	133
+Thorbjørn Ravn Andersen	1823	2494	49
+Adriaan Stander	1818	1100	69
+Johannes Schaub - litb	1800	5806	537
+Craig Stuntz	1792	2229	117
+meder omuraliev	1763	1786	112
+Thomas Levesque	1709	1978	90
+karim79	1690	1552	109
+rahul	1667	1182	92
+nickf	1658	1849	332
+Konrad Rudolph	1649	2739	525
+Peter Hosey	1626	2866	74
+unwind	1593	763	197
+Gordon	1579	3560	84
+Amber	1574	1487	111
+alex	1547	2760	152
+Tom Hawtin - tackline	1546	3076	95
+polygenelubricants	1534	1905	287
+Marcelo Cantos	1521	1897	118
+sharptooth	1521	1806	192
+Daniel Vassallo	1517	1446	145
+MSalters	1509	3323	52
+caf	1494	2480	95
+OscarRyz	1489	2108	180
+Lasse Vågsæther Karlsen	1487	2492	267
+Brian R. Bondy	1476	1357	473
+Pointy	1475	3464	62
+Cade Roux	1468	866	81
+kgiannakakis	1464	479	86
+leppie	1458	2481	99
+KM.	1454	2120	48
+RedFilter	1449	1314	83
+Sampson	1440	1775	163
+Andomar	1435	1503	62
+Felix Kling	1417	3263	69
+Chuck	1415	2068	133
+Cheeso	1409	1613	131
+Dennis Williamson	1408	2281	48
+Norman Ramsey	1405	748	271
+Daniel Roseman	1383	674	60
+Joey	1378	2839	164
+ChrisF	1377	1745	94
+T.J. Crowder	1377	3408	85
+Fredrik Mörk	1376	1455	125
+James Curran	1373	695	170
+Greg	1366	801	175
+user113716	1362	3586	53
+Martin York	1358	4348	173
+James McNellis	1352	2817	409
+Steve Jessop	1352	6238	235
+Dimitre Novatchev	1340	2746	44
+womp	1323	1016	146
+dirkgently	1304	1528	88
+Will	1289	2265	166
+NotMe	1275	1715	89
+Mark Ransom	1274	1538	93
+Shiraz Bhaiji	1263	379	46
+sbi	1247	4439	149
+jalf	1246	4420	330
+Vinko Vrsalovic	1240	1492	264
+Your Common Sense	1235	0	41
+Sinan Ünür	1233	1961	178
+Martin Smith	1228	2618	67
+TechZen	1213	1034	32
+matt b	1206	1699	142
+MusiGenesis	1202	2491	140
+Hans Olsson	1195	701	31
+Adam Rosenfield	1189	909	250
+Ned Batchelder	1186	526	145
+ChrisW	1184	1391	86
+Mitchel Sellers	1182	576	73
+Amarghosh	1181	1791	56
+Bill the Lizard	1181	1573	426
+Andreas_D	1174	1125	33
+Andy E	1169	2381	91
+Fionnuala	1168	1801	40
+Brian	1166	775	144
+Mauricio Scheffer	1166	2043	90
+Adam Robinson	1164	1850	147
+Charles Bretana	1159	1147	87
+deceze	1155	2395	70
+Peter Lawrey	1154	1248	28
+Kent Boogaart	1149	652	134
+Anton Gogolev	1143	244	124
+sepp2k	1133	1087	200
+erickson	1130	1274	175
+Nick Johnson	1127	1579	80
+SQLMenace	1124	480	91
+chaos	1122	871	214
+Dirk Vollmar	1120	2350	128
+AnT	1116	1993	176
+Amy B	1108	675	67
+James Black	1103	1509	40
+Steve Townsend	1102	1568	52
+Paul Tomblin	1100	1795	234
+Blankman	1094	744	140
+ctacke	1094	857	78
+LukeH	1091	1457	124
+Mark Rushakoff	1090	530	151
+Richard	1089	1150	74
+Dave DeLong	1087	1196	95
+nos	1086	1280	110
+Carl Smotricz	1084	1705	62
+ceejayoz	1083	1501	2
+Jason S	1083	1862	134
+CB Bailey	1082	2082	250
+Preet Sangha	1080	869	57
+Martin v. Löwis	1077	673	107
+VolkerK	1071	1538	58
+John La Rooy	1070	1306	100
+leora	1070	942	190
+camickr	1069	712	18
+Charlie Martin	1069	702	112
+Jörg W Mittag	1069	1281	138
+Mark Seemann	1069	999	89
+Artefacto	1059	1551	55
+Puppy	1057	1545	32
+Pablo Santa Cruz	1055	476	79
+Rubens Farias	1055	968	42
+sth	1053	551	135
+t0mm13b	1046	1087	29
+Uri	1042	703	174
+Thilo	1030	1791	127
+Justin Ethier	1027	579	102
+Brian Rasmussen	1026	1133	179
+kemiller2002	1023	479	160
+Daniel Earwicker	1014	1775	136
+Noon Silk	1010	1609	87
+Rex M	1008	1333	227
+Paul Dixon	1001	662	164
+GManNickG	1000	5164	299
+Aaronaught	996	1867	124
+DVK	994	1509	105
+djna	992	530	33
+aioobe	988	1257	87
+brian d foy	987	2106	4
+Powerlord	983	1786	58
+Nikolai Fetissov	982	895	43
+Pentium10	976	1086	52
+dkretz	975	1121	85
+jason	975	1568	172

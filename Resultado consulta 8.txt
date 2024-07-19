@@ -1,0 +1,10 @@
+﻿How to undo the most recent commits in Git?	17970
+How do I delete a Git branch both locally and remotely?	13957
+What is the difference between 'git pull' and 'git fetch'?	10219
+What is the correct JSON content type?	9236
+What does the "yield" keyword do?	8409
+What is the "-->" operator in C++?	7818
+How do I redirect to another webpage?	7737
+How to modify existing, unpushed commits?	7678
+How do JavaScript closures work?	7654
+How to undo 'git add' before commit?	7524

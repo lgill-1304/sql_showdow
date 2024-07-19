@@ -1,0 +1,10 @@
+﻿Jon Skeet	Reading, United Kingdom	1047863
+BalusC	Willemstad, Curaçao	818687
+Darin Dimitrov	Sofia, Bulgaria	814505
+VonC	France	800368
+Hans Passant	Madison, WI	768855
+Marc Gravell	Forest of Dean, United Kingdom	754947
+CommonsWare	Pennsylvania, United States	742577
+Martijn Pieters	Cambridge, United Kingdom	669040
+SLaks	New Jersey	658737
+T.J. Crowder	United Kingdom	648420
