@@ -32,24 +32,24 @@ UPDATE Users
 SET Location = 'Desconocido'
 WHERE Location IS NULL OR Location = '';
 
- /*Consulta para seleccionar los primeros 200 registros actualizados*/
-SELECT TOP 200 Id, DisplayName, Location
-FROM Users 
-WHERE Location = 'Desconocido';
+-- Verifica si la actualizaci贸n se realiz贸 correctamente
+IF @@ROWCOUNT > 0
+BEGIN
+    PRINT 'Actualizaci贸n realizada correctamente';
+END
+ELSE
+BEGIN
+    PRINT 'No se encontraron ubicaciones vac铆as para actualizar';
+END
 
---Mensaje de confirmacion--
-PRINT 'Actualizacion realizada correctamente';
-
-SELECT TOP 200 * FROM Posts;
-
-/*6 consulta todos los comentarios realizados por usuarios con menos de 100 de reputaci髇 eliminados*/
+/*6 consulta todos los comentarios realizados por usuarios con menos de 100 de reputaci贸n eliminados*/
 DELETE Comments
 FROM Comments
 JOIN Users ON Comments.UserId = Users.Id
 WHERE Users.Reputation < 100;
 
 /*Muestra mensaje de confirmacion con numero de filas eliminadas*/
-PRINT 'Numero de comentrios eliminados: ' + CAST (@@ROWCOUNT AS NVARCHAR(10));
+PRINT 'Numero de comentarios eliminados: ' + CAST (@@ROWCOUNT AS NVARCHAR(10));
 
 /*7 consulta muestra el total de publicaciones, post, comentarios y medallas*/
 SELECT TOP 200
@@ -63,13 +63,13 @@ FROM
 ORDER BY 
 		TotalPosts DESC, Users.DisplayName;
 
-/*8 Muestra las 10 publicaciones m醩 populares basadas en la puntuaci髇*/
+/*8 Muestra las 10 publicaciones m谩s populares basadas en la puntuaci贸n*/
 SELECT TOP 10 Title, Score
 FROM Posts
 WHERE Title IS NOT NULL
 ORDER BY Score DESC; 
 
-/*9 Muestra los 5 comentarios m醩 recientes de la tabla*/
+/*9 Muestra los 5 comentarios m谩s recientes de la tabla*/
 SELECT TOP 5 Text, CreationDate
 FROM Comments
 ORDER BY CreationDate DESC;
